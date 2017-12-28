@@ -51,7 +51,7 @@ A chess game may allow user to play verses AI
 
 ## UML:
 
-![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/5.jpeg)
+![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/uml.png)
 
 ## DB:
 
