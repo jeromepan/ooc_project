@@ -5,7 +5,7 @@
  
  Jian Pan
  
- Big Priest(honour)
+ Big Priest(team)
 
 ## Description:
 
