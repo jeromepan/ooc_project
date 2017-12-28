@@ -2,12 +2,14 @@
 
 ## Contributors:
  Xiaohan Yu
+ 
  Jian Pan
+ 
  Big Priest(honour)
 
 ## Description:
 
-This application is wrote by Kotlin.
+This android app is wrote by Kotlin.
 This game can be applied player vs player.
 
 The AI part, using minmax-alaphbeta pruning alorithm to do ( extra content writen by JAVA).
@@ -37,25 +39,25 @@ A chess game may allow user to play verses AI
 
 
 
-## ScreenShots:\
-\
+## ScreenShots:
+
 ![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h1.jpeg)\
-\
+
 ![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h2.jpeg)\
-\
+
 ![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h3.jpeg)\
-\
+
 ![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h4.jpeg)\
-\
-## Go To Game(Demo):\
-\
+
+## Go To Game(Demo):
+
 https://chessai-c5b40.firebaseapp.com/\
-\
+
 (
 \f1 \uc0\u8593 
 \f0 Easily click it to play)\
-\
-## References:\
-\
+
+## References:
+
 https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977\
 }
