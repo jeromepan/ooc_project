@@ -42,11 +42,9 @@ A chess game may allow user to play verses AI
 ## ScreenShots:
 
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/1.jpeg)
-
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/2.jpeg)
 
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/3.jpeg)
-
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/4.jpeg)
 
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/5.jpeg)
