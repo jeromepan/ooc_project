@@ -10,9 +10,10 @@
 ## Description:
 
 This android app is wrote by Kotlin.
-This game can be applied player vs player.
+This game can be applied player vs player( based on firebase ).
 
-The AI part, using minmax-alaphbeta pruning alorithm to do ( extra content writen by JAVA).
+
+The AI part, using minmax-alaphbeta pruning alorithm to do (extra content writen by JAVA).
 A chess game may allow user to play verses AI
 
 ## Poster:
@@ -26,7 +27,7 @@ A chess game may allow user to play verses AI
   
   ### About Algorithm(minimax alpha-beat pruning)
   A minimax algorithm is a recursive algorithm for choosing the next move in an n-player game, usually a two-player game. 
-  Alpha\'96beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.\
+  Alpha\'96beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.
   For example:
   
   ![MiniMax Alpha-Beta pruning](https://github.com/jeromepan/chessgame/blob/master/Alpha-Beta-Pruning.png)
@@ -46,6 +47,5 @@ A chess game may allow user to play verses AI
 
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/3.jpeg)
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/4.jpeg)
-
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/5.jpeg)
 
