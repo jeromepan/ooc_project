@@ -57,7 +57,7 @@ A chess game may allow user to play verses AI
 
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/db.png)
 
-## Slider:
+## Slide:
 
 https://github.com/jeromepan/ooc_project/blob/master/chess.pptx
 
