@@ -49,15 +49,3 @@ A chess game may allow user to play verses AI
 
 ![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/5.jpeg)
 
-
-
-https://chessai-c5b40.firebaseapp.com/\
-
-(
-\f1 \uc0\u8593 
-\f0 Easily click it to play)\
-
-## References:
-
-https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977\
-}
