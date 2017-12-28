@@ -41,15 +41,17 @@ A chess game may allow user to play verses AI
 
 ## ScreenShots:
 
-![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h1.jpeg)\
+![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/1.jpeg)
 
-![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h2.jpeg)\
+![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/2.jpeg)
 
-![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h3.jpeg)\
+![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/3.jpeg)
 
-![screenshots Chess](https://raw.githubusercontent.com/RockSoda/chessgame/master/Screenshot/h4.jpeg)\
+![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/4.jpeg)
 
-## Go To Game(Demo):
+![screenshots Chess](https://github.com/jeromepan/ooc_project/blob/master/pics/5.jpeg)
+
+
 
 https://chessai-c5b40.firebaseapp.com/\
 
